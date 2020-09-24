@@ -3223,7 +3223,7 @@ input, select, textarea {
 
 .devicon-javascript-plain,
 .devicon-react-original-wordmark,
-.devicon-redux-original-wordmark,
+.devicon-redux,
 .devicon-ruby-plain-wordmark,
 .devicon-rails-plain-wordmark,
 .devicon-nodejs-plain-wordmark,
@@ -3235,6 +3235,7 @@ input, select, textarea {
 .devicon-babel-plain,
 .devicon-python-plain-wordmark,
 .devicon-git-plain-wordmark,
-.devicon-heroku-original-wordmark {
+.devicon-heroku-original-wordmark,
+.devicon-typescript-plain {
 	font-size: 80px;
 }
