@@ -1,3 +1,3 @@
 User-agent: *
 
-Disallow: /assets/files/Kevin Zhang Resume.pdf
+Disallow: /assets/files/
